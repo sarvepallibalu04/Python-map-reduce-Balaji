@@ -8,4 +8,4 @@ The dataset that I have taken worldcup ground average.I have mapped and reduce t
 
 # Chart
 The chart of the dataset that i have taken.
-![image](C:\Users\S542273\Documents\44517\Python-map-reduce-Balaji\Chart.PNG)
+![image](https://github.com/sarvepallibalu04/Python-map-reduce-Balaji/blob/main/Chart.PNG)
